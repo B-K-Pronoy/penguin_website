@@ -1,0 +1,32 @@
+.card img {
+    width: 198px;
+    height: 199px;
+    margin:auto;
+    /* object-fit: cover; */
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: -2rem 1rem;
+}
+
+.btn{
+    background-color: rgb(111, 151, 42);
+    width: 50px;
+}
+.shopping img{
+    width: 20rem;
+}
+.icon_item img{
+    width:54px;
+}
+.icon_parant{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.content{
+    padding: 10px;
+    margin-left: 10px;
+    text-align: justify;
+}
